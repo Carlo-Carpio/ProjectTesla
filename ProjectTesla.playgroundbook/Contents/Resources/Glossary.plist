@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Torch</key>
+		<dict>
+			<key>Definition</key>
+			<string>A torch is a portable hand-held electric light. The source of the light is a light bulb. Typically, a torch consist of the light source, a battery and a switch.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Fiat Lux</string>
+				<key>PageReferance</key>
+				<string>Chapter1/Fiat%20Lux</string>
+			</dict>
+		</dict>
+		<key>Current</key>
+		<dict>
+			<key>Definition</key>
+			<string>Current is the flow of electrons. The movement of these electrons is called current. Current is measured in units called `amperes` (A). In the Ohm&apos;s First Law is represented with `I=Intensity`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Make some noise</string>
+				<key>PageReference</key>
+				<string>Chapter1/Make%20some%20noise</string>
+			</dict>
+		</dict>
+		<key>Resistance</key>
+		<dict>
+			<key>Definition</key>
+			<string>Resistance is a measure of the opposition to current flow in an electrical circuit. Resistance is measured in `ohms`, symbolized by the Greek letter omega (Ω). In the Ohm&apos;s First Law it is represented with `R=Resistance`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Make some noise</string>
+				<key>PageReference</key>
+				<string>Chapter1/Make%20some%20noise</string>
+			</dict>
+		</dict>
+		<key>Voltage</key>
+		<dict>
+			<key>Definition</key>
+			<string>Voltage is the pressure from an electrical circuit’s power source that pushes charged electrons (current) through a conducting loop. It is measured in `volts` (V). The term recognizes Italian physicist **Alessandro Volta** (1745-1827). In the Ohm&apos;s First Law it is represented with `V=Voltage`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Make some noise</string>
+				<key>PageReference</key>
+				<string>Chapter1/Make%20some%20noise</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
